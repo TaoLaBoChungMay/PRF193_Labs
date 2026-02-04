@@ -1,0 +1,103 @@
+# Compiled object files
+*.o
+*.obj
+*.out
+*.exe
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Libraries
+*.a
+*.la
+*.lo
+*.lib
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directories
+build/
+Build/
+bin/
+Bin/
+dist/
+Debug/
+Release/
+
+# Dependency files
+*.d
+*.deps
+*.depend
+
+# IDE and Editor files
+# Dev-C++
+*.dev
+*.layout
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# CLion
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# Code::Blocks
+*.cbp
+*.layout
+*.depend
+
+# Qt Creator
+CMakeLists.txt.user
+*.pro.user
+*.pro.user.*
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+*~
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# OS files
+.DS_Store
+Thumbs.db
+.directory
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Makefile outputs
+*.o
+Makefile.win.o
+
+# Misc
+*.log
+.cache/
